@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='body'>
     <div className="container">
-          <h1>CALCULATOR</h1>
+          <h1>CALCULATOR  Demo</h1>
       <div className="calc">
     
         <form> 
